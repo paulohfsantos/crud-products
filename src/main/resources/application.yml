@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: ${DB_URL}
+      database: ${DATABASE}
+      username: ${DB_USERNAME}
+      password: ${DB_PASSWORD}
